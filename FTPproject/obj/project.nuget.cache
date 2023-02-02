@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Sy2tdDxukBWNbhDE10gwBv09HPtrS2z7M7oXtGFX+rJ88hnJ/9snqqCti2qg65XTCRM6vWCkgwP/MJ9JoObcYw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Alexander\\source\\repos\\FTPproject\\FTPproject\\FTPproject.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Alexander\\.nuget\\packages\\newtonsoft.json\\13.0.2\\newtonsoft.json.13.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}
